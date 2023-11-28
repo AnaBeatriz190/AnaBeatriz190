@@ -1,17 +1,17 @@
 <div align="center">
-	<a href="https://josejefferson.github.io">
+	<a href="https://AnaBeatriz190.github.io">
 		<img height="100" src="https://raw.githubusercontent.com/josejefferson/josejefferson/master/img/avatar-rounded.webp" alt="My avatar">
-		<h1>Jefferson Dantas</h1>
+		<h1>Ana Beatriz</h1>
 	</a>
 </div>
 &nbsp;
 <div align="center">
 	<a href="https://github.com/josejefferson?tab=repositories">
-		<img height="150em" src="https://github-readme-stats.vercel.app/api?username=josejefferson&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Stats">
-		<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josejefferson&layout=compact&langs_count=7&theme=gruvbox" alt="Most used languages">
-		<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=josejefferson&theme=dark&background=282828&border=e4e2e2&stroke=555555&ring=d8a52e&currStreakLabel=fd8019&sideNums=8ec07c&sideLabels=8ec07c&currStreakNum=8ec07c" alt="GitHub Streak">
+		<img height="150em" src="https://github-readme-stats.vercel.app/api?username=AnaBeatriz&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Stats">
+		<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBeatriz&layout=compact&langs_count=7&theme=gruvbox" alt="Most used languages">
+		<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnaBeatriz&theme=dark&background=282828&border=e4e2e2&stroke=555555&ring=d8a52e&currStreakLabel=fd8019&sideNums=8ec07c&sideLabels=8ec07c&currStreakNum=8ec07c" alt="GitHub Streak">
 		<picture>
-			<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josejefferson/josejefferson/snake/github-snake-dark.svg" />
+			<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnaBeatriz190/josejefferson/snake/github-snake-dark.svg" />
 			<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josejefferson/josejefferson/snake/github-snake.svg" />
 			<img alt="github-snake" src="https://raw.githubusercontent.com/josejefferson/josejefferson/snake/github-snake.svg" />
 		</picture>
