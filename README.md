@@ -1,6 +1,6 @@
 <div align="center">
 	<a href="https://AnaBeatriz190.github.io">
-		<img height="100" src="https://github.com/Ani" alt="My avatar">
+		<img height="100" src="https://github.com/AnaBeatriz190" alt="My avatar">
 		<h1>Ana Beatriz</h1>
 	</a>
 </div>
