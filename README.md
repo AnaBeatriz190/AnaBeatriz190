@@ -46,7 +46,7 @@
 
 <br>
 <div align="center">
-	<img src="https://jd-visitor-counter.jeffersondantas.repl.co/custom/github:josejefferson/count.svg" alt="Visitor counter" title="Visitor counter">
+	<img src="https://jd-visitor-counter.jeffersondantas.repl.co/custom/github:AnaBeatriz190/count.svg" alt="Visitor counter" title="Visitor counter">
 </div>
 
 <div align="center">
@@ -56,5 +56,5 @@
 </div>
 <div align="center">
 	<span>From Brazil</span>
-	<img height="12" src="https://raw.githubusercontent.com/josejefferson/josejefferson/master/img/brazil-flag-simplified.webp" alt="Brazil flag">
+	<img height="12" src="https://raw.githubusercontent.com/AnaBeatriz190/AnaBeatriz190/master/img/brazil-flag-simplified.webp" alt="Brazil flag">
 </div>
