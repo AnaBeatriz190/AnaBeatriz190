@@ -1,7 +1,7 @@
 <div align="center">
 	<a href="https://AnaBeatriz190.github.io">
 		<img height="100" src="https://github.com/AnaBeatriz190" alt="My avatar">
-		<h1>Ani</h1>
+		<h1>Ana Beatriz</h1>
 	</a>
 </div>
 &nbsp;
@@ -46,7 +46,7 @@
 
 <br>
 <div align="center">
-	<img src="https://jd-visitor-counter.jeffersondantas.repl.co/custom/github:AnaBeatriz190/count.svg" alt="Visitor counter" title="Visitor counter">
+	<img src="https://jd-visitor-counter.AnaBeatriz190.repl.co/custom/github:AnaBeatriz190/count.svg" alt="Visitor counter" title="Visitor counter">
 </div>
 
 <div align="center">
